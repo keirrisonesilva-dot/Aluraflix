@@ -2,14 +2,19 @@ body{
     background-color: rgb(12, 67, 157);
     color: rgb(60, 54, 54);
 font-family: "Libertinus Keyboard", system-ui;
+margin: 0px;
 }
 header{
     font-size: 50px;
-    border: solid 5px blue;
+    border-bottom:   solid 15px blue;
+    text-align: center;
+   /*margin: 30px;*/
+   padding: 35px;
 }
 
-h1
+h1{
     font-size: 30px;}
+
 }
 
 p{
